@@ -11,10 +11,6 @@
     {
       "name": "Meredith Parisian",
       "id": 7
-    },
-    {
-      "name": "Josh Gerlach",
-      "id": 8
     }
   ],
   "albums": [
@@ -47,6 +43,11 @@
       "userId": 1,
       "title": "Fantastic Frozen Chair",
       "id": 15
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Concrete Sausages",
+      "id": 16
     }
   ],
   "photos": []
