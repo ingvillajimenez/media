@@ -43,6 +43,26 @@
       "userId": 1,
       "title": "Gorgeous Bronze Shoes",
       "id": 17
+    },
+    {
+      "userId": 6,
+      "title": "Handcrafted Wooden Gloves",
+      "id": 20
+    },
+    {
+      "userId": 7,
+      "title": "Unbranded Soft Soap",
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Soft Chips",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Handcrafted Frozen Chips",
+      "id": 23
     }
   ],
   "photos": []
