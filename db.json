@@ -16,11 +16,6 @@
   "albums": [
     {
       "userId": 1,
-      "title": "Luxurious Frozen Bacon",
-      "id": 11
-    },
-    {
-      "userId": 1,
       "title": "Oriental Plastic Cheese",
       "id": 12
     },
@@ -48,16 +43,6 @@
       "userId": 1,
       "title": "Gorgeous Bronze Shoes",
       "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Soft Chips",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Granite Hat",
-      "id": 19
     }
   ],
   "photos": []
