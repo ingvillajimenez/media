@@ -58,11 +58,6 @@
       "userId": 1,
       "title": "Electronic Soft Chips",
       "id": 22
-    },
-    {
-      "userId": 1,
-      "title": "Handcrafted Frozen Chips",
-      "id": 23
     }
   ],
   "photos": [
@@ -75,11 +70,6 @@
       "albumId": 12,
       "url": "https://loremflickr.com/150/150/abstract?lock=8238186188767232",
       "id": 2
-    },
-    {
-      "albumId": 12,
-      "url": "https://loremflickr.com/150/150/abstract?lock=6159168366968832",
-      "id": 3
     }
   ]
 }
